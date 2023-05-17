@@ -1,0 +1,251 @@
+Q1423891	Christian minister
+Q1476215	human rights activist
+Q24262584	Bible translator
+Q21166956	lutenist
+Q17391659	architectural theoretician
+Q1743122	church historian
+Q17598791	latinist
+Q2478141	aristocrat
+Q171692	patriarch
+Q18810149	stenographer
+Q1569495	lecturer
+Q619553	apologist
+Q42603	priest
+Q1097498	ruler
+Q615514	Chorbishop
+Q4988856	Hebraist
+Q1636680	Renaissance humanist
+Q16271261	malacologist
+Q47064	military personnel
+Q193391	diplomat
+Q23072521	paremiologist
+Q16533	judge
+Q6625963	novelist
+Q1231865	pedagogue
+Q7940086	volcanologist
+Q1281618	sculptor
+Q3589290	correspondent
+Q67135648	mimographer
+Q28389	screenwriter
+Q215536	merchant
+Q3064032	fabulist
+Q548320	Catholic friar
+Q333634	translator
+Q17166634	hagiographer
+Q29514511	compiler
+Q14467526	linguist
+Q182436	librarian
+Q105200154	Roman Catholic cleric
+Q20826540	erudite person
+Q1402561	military leader
+Q175151	printer
+Q16868675	elegist
+Q4263842	literary critic
+Q3579035	travel writer
+Q11774202	essayist
+Q49757	poet
+Q12328016	mystic
+Q89566537	canon regular
+Q98833883	evangelical theologian
+Q15991187	grammarian
+Q9149093	mountaineer
+Q40348	lawyer
+Q12144794	prosaist
+Q3055126	entomologist
+Q2504617	romanist
+Q36180	writer
+Q542704	pilgrim
+Q4773904	anthropologist
+Q205375	inventor
+Q19829990	biblical scholar
+Q49476	archbishop
+Q24262594	religious writer
+Q5758653	high school teacher
+Q18916625	hellenist
+Q3606216	aphorist
+Q1238570	political scientist
+Q14565331	logician
+Q88213697	dictionary author
+Q2374149	botanist
+Q1234713	theologian
+Q10333969	museologist
+Q4594605	magistrate
+Q11545923	military commander
+Q3499072	chef
+Q185351	jurist
+Q105200214	Catholic cleric
+Q26237228	epigrammatist
+Q13570226	literary historian
+Q25393460	Catholic deacon
+Q6673651	literary
+Q551835	physician writer
+Q765778	organist
+Q99899510	Ancient Roman historian
+Q105169902	latin catholic deacon
+Q1930187	journalist
+Q3621491	archaeologist
+Q352507	pastor
+Q822146	lyricist
+Q733786	monk
+Q830337	prior
+Q2089763	Crusader
+Q17132038	palaeographer
+Q864380	biographer
+Q998628	illuminator
+Q1622272	university teacher
+Q13418253	philologist
+Q831474	presbyter
+Q55631411	religious sister
+Q97722145	Latin Catholic monk
+Q28146366	Christian nun
+Q483501	artist
+Q219477	missionary
+Q56033776	reformed pastor
+Q189290	military officer
+Q161944	deacon
+Q2259532	cleric
+Q39018	emperor
+Q169470	physicist
+Q64934518	architecture writer
+Q115977859	executive
+Q6051619	opinion journalist
+Q152002	pastor
+Q1792450	art historian
+Q756215	provost
+Q1734662	cartographer
+Q4958876	Dean
+Q1646408	abbess
+Q354034	type designer
+Q212238	civil servant
+Q191808	nun
+Q1664338	inquisitor
+Q1708232	medalist
+Q39631	physician
+Q15954519	alchemist
+Q33999	actor
+Q96236305	Lutheran pastor
+Q8178443	librettist
+Q3243461	collector
+Q17167049	literary scholar
+Q10873124	chess player
+Q2516866	publisher
+Q11063	astronomer
+Q170790	mathematician
+Q901	scientist
+Q633730	archdeacon
+Q11900058	explorer
+Q806798	banker
+Q14915627	musicologist
+Q16031530	music theorist
+Q133485	rabbi
+Q2912782	proconsul
+Q4479442	organizational founder
+Q3330547	chronicler
+Q10567966	liturgist
+Q18805	naturalist
+Q635734	archivist
+Q4964182	philosopher
+Q270141	polymath
+Q250867	Catholic priest
+Q1104153	canon
+Q37226	teacher
+Q97667506	Ancient Roman politician
+Q2341443	instrument maker
+Q189010	notary
+Q864503	biologist
+Q3409374	Ancient Roman priest
+Q97722086	western Christian monk
+Q2135469	legal counsel
+Q5697103	antiquarian
+Q2566598	religious
+Q7834465	Transitional deacon
+Q3315492	clergyman
+Q13424456	hymnwriter
+Q22929895	medieval historian
+Q487596	dramaturge
+Q1190123	Roman governor
+Q11774156	memoirist
+Q98103687	Ancient Roman military personnel
+Q2378979	seculary canon
+Q2664701	jurist-consultant
+Q12027957	canon law jurist
+Q98833890	Catholic theologian
+Q18814623	autobiographer
+Q1237385	canon
+Q516463	heraldist
+Q16009129	Magistrat
+Q13582652	civil engineer
+Q452189	scholaster
+Q913870	canoness
+Q740369	papal legate
+Q744738	encyclopédistes
+Q1607826	editor
+Q15632632	epigrapher
+Q16314501	encyclopedist
+Q188094	economist
+Q1146843	anchorite
+Q361809	rhetorician
+Q2066131	athlete
+Q520549	geologist
+Q15949613	short story writer
+Q4504549	religious servant
+Q58968	intellectual
+Q47038929	паэт-лацініст
+Q725440	prelate
+Q1209498	poet lawyer
+Q767975	Goliard
+Q477406	regent
+Q499134	amanuensis
+Q2468727	classical scholar
+Q11914886	comedy writer
+Q2138822	regular cleric
+Q121594	professor
+Q1781198	agronomist
+Q42973	architect
+Q214917	playwright
+Q208762	chaplain
+Q157037	apostolic nuncio
+Q4175034	legislator
+Q80687	secretary
+Q1028181	painter
+Q372436	statesperson
+Q17391638	art theorist
+Q2029179	regular priest
+Q18120029	bibliophile
+Q2004963	numismatist
+Q955464	parson
+Q4381978	Lady Margaret's Professor of Divinity
+Q432386	preacher
+Q12859263	orator
+Q2310145	meteorologist
+Q916292	scribe
+Q67102720	annalist
+Q201257	episcopal vicar
+Q1190552	archpriest
+Q98706077	ancient Roman diplomat
+Q763779	Protestant reformer
+Q14972848	lexicographer
+Q1350189	egyptologist
+Q155647	astrologer
+Q82955	politician
+Q81096	engineer
+Q66780166	New Testament scholar
+Q15442776	cryptographer
+Q5983472	iatrosophist
+Q1731155	orientalist
+Q15994177	political theorist
+Q201788	historian
+Q901402	geographer
+Q10527030	humanist
+Q2855502	chief of police
+Q639669	musician
+Q24387326	mythographer
+Q36834	composer
+Q22676333	Roman Catholic Bishop of Chartres
+Q1469535	Latin Catholic priest
+Q2109894	Christian monk
+Q599151	official
+Q189829	hermit
+Q16267607	classical philologist
+Q451286	grammarian
+Q215909	augur
