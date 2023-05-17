@@ -1,4 +1,4 @@
-# Graph Databases for Diachronic Language Data Modelling
+# Graph Databases for Diachronic Language Data Modelling (LDK 2023)
 
 This repository contains:
 
