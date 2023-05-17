@@ -8,7 +8,7 @@ This repository contains:
     ```
   - a [curated_link](https://github.com/linguisticGraph/latin-graph/blob/main/curated_link.csv) between sense definitions used in the annotated corpus and WordNet synsets (credits to Paola Marongiu)
 
-  - the [dataset](https://github.com/linguisticGraph/latin-graph/blob/main/dataset.jsonl): JSON dump of the graph used in the experiments - loadable in Neo4j with the script [export4neo4j.](https://github.com/linguisticGraph/latin-graph/blob/main/blob/export2neo4j.jsonl)
+  - the [dataset](https://github.com/linguisticGraph/latin-graph/blob/main/dataset.jsonl): JSON dump of the graph used in the experiments - loadable in Neo4j with the script [export4neo4j.]([https://github.com/linguisticGraph/latin-graph/blob/main/blob/export2neo4j.jsonl](https://github.com/linguisticGraph/latin-graph/blob/main/export2neo4j.py))
 
 <b> Citation </b>
 
