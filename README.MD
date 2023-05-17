@@ -10,6 +10,12 @@ This repository contains:
 
   - the [dataset](https://github.com/linguisticGraph/latin-graph/blob/main/dataset.jsonl): JSON dump of the graph used in the experiments - loadable in Neo4j with the script [export4neo4j.py](https://github.com/linguisticGraph/latin-graph/blob/main/export2neo4j.py)
 
+  - metadata extracted from WikiData:
+      - WikiData IDS to Author Names mapping 
+      - WikiData IDS to Occupation title mapping
+      - Author ID to Occupation ID mapping
+      - Automatically linked authors from LatinISE corpus 
+
 <b> Citation </b>
 
 ```
