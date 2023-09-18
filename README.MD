@@ -19,6 +19,12 @@ This repository contains:
 <b> Citation </b>
 
 ```
+@incollection{mcgillivray2023graph,
+  title={Graph Databases for Diachronic Language Data Modelling},
+  author={McGillivray, Barbara and Cassotti, Pierluigi and Di Pierro, Davide and Marongiu, Paola and Khan, Anas Fahad and Ferilli, Stefano and Basile, Pierpaolo},
+  booktitle={Proceedings of Language, Data and Knowledge 2023 (LDK 2023)},
+  year={2023}
+}
 
 ```
 
